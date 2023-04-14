@@ -1,0 +1,2 @@
+# AtisyaBadhiatunrahmaYusuf_202055202002
+Algoritma Deep Learning
